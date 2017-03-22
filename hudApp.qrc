@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/mainViewer.qml</file>
+        <file>qml/content/DigitValue.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/num9.png</file>
+        <file>images/num8.png</file>
+        <file>images/num7.png</file>
+        <file>images/num6.png</file>
+        <file>images/num5.png</file>
+        <file>images/num4.png</file>
+        <file>images/num3.png</file>
+        <file>images/num2.png</file>
+        <file>images/num1.png</file>
+        <file>images/num0.png</file>
+        <file>images/iconR.png</file>
+        <file>images/iconP.png</file>
+        <file>images/iconN.png</file>
+        <file>images/iconM.png</file>
+        <file>images/iconKMH.png</file>
+        <file>images/iconD.png</file>
+    </qresource>
+    <qresource prefix="/hudImage">
+        <file>hUDImage/curve.png</file>
+        <file>hUDImage/flag.png</file>
+        <file>hUDImage/left.png</file>
+        <file>hUDImage/leftY.png</file>
+        <file>hUDImage/pianli.png</file>
+        <file>hUDImage/right.png</file>
+        <file>hUDImage/rightY.png</file>
+        <file>hUDImage/ring.png</file>
+        <file>hUDImage/straight.png</file>
+        <file>hUDImage/tunnel.png</file>
+        <file>images/speed_limit.png</file>
+    </qresource>
+</RCC>
